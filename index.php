@@ -190,7 +190,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers</span></h4>
       </div>
-	  
+	  <!-- Modal For Developers-->
       <div class="modal-body">
         <p>
 		<div class="row">
